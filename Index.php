@@ -52,7 +52,7 @@ $katter = $stmt->fetchAll();
     <head>
         <meta charset="UTF-8">
 
-        <title></title>
+        <title>Formulärsak som tog fett lång tid</title>
     </head>
     <body>
         <table> 
